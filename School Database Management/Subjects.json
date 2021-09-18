@@ -1,0 +1,82 @@
+[
+    {
+        "English": 49,
+        "Geography": 35,
+        "History": 39,
+        "ID": 1,
+        "Mathematics": 45,
+        "name_id": 1
+    },
+    {
+        "English": 17,
+        "Geography": 20,
+        "History": 5,
+        "ID": 2,
+        "Mathematics": 16,
+        "name_id": 2
+    },
+    {
+        "English": 28,
+        "Geography": 49,
+        "History": 41,
+        "ID": 3,
+        "Mathematics": 39,
+        "name_id": 3
+    },
+    {
+        "English": 50,
+        "Geography": 15,
+        "History": 24,
+        "ID": 4,
+        "Mathematics": 42,
+        "name_id": 4
+    },
+    {
+        "English": 41,
+        "Geography": 43,
+        "History": 16,
+        "ID": 5,
+        "Mathematics": 50,
+        "name_id": 5
+    },
+    {
+        "English": 49,
+        "Geography": 50,
+        "History": 47,
+        "ID": 6,
+        "Mathematics": 50,
+        "name_id": 6
+    },
+    {
+        "English": 46,
+        "Geography": 50,
+        "History": 44,
+        "ID": 7,
+        "Mathematics": 48,
+        "name_id": 7
+    },
+    {
+        "English": 50,
+        "Geography": 50,
+        "History": 50,
+        "ID": 8,
+        "Mathematics": 50,
+        "name_id": 8
+    },
+    {
+        "English": 15,
+        "Geography": 17,
+        "History": 10,
+        "ID": 9,
+        "Mathematics": 14,
+        "name_id": 9
+    },
+    {
+        "English": 48,
+        "Geography": 50,
+        "History": 38,
+        "ID": 10,
+        "Mathematics": 47,
+        "name_id": 10
+    }
+]

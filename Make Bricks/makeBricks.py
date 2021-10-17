@@ -1,4 +1,7 @@
+
 def make_bricks(small, big, goal):
+  """This function that takes the quantity of the bricks, size of the wall to be build, and determines if the wall can be build or not."""
+
   valueOfSmallBr = small*1
   valueOfBigBr = big*5
   valueOfGoal = valueOfSmallBr + valueOfBigBr
